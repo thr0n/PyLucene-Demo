@@ -1,0 +1,8 @@
+You should really visit www.gutenberg.org and get some 
+ebooks to to test this application. I recommend:
+
+- "A Princess of Mars" by Edgar Rice Burroughs
+- "Frankenstein" by Mary Wollstonecraft Shelley and
+- "Pride and Prejudice" by Jane Austen
+
+EOF
